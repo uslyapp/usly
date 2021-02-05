@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/usly/static/css/main.29cd37bd.chunk.css",
-    "main.js": "/usly/static/js/main.b0e36f0b.chunk.js",
-    "main.js.map": "/usly/static/js/main.b0e36f0b.chunk.js.map",
+    "main.js": "/usly/static/js/main.c0332ef0.chunk.js",
+    "main.js.map": "/usly/static/js/main.c0332ef0.chunk.js.map",
     "runtime-main.js": "/usly/static/js/runtime-main.31d56570.js",
     "runtime-main.js.map": "/usly/static/js/runtime-main.31d56570.js.map",
-    "static/js/2.6a5d0073.chunk.js": "/usly/static/js/2.6a5d0073.chunk.js",
-    "static/js/2.6a5d0073.chunk.js.map": "/usly/static/js/2.6a5d0073.chunk.js.map",
+    "static/js/2.5a128512.chunk.js": "/usly/static/js/2.5a128512.chunk.js",
+    "static/js/2.5a128512.chunk.js.map": "/usly/static/js/2.5a128512.chunk.js.map",
     "index.html": "/usly/index.html",
-    "precache-manifest.357ef11198e71a9a32ededc1e7e8d9e3.js": "/usly/precache-manifest.357ef11198e71a9a32ededc1e7e8d9e3.js",
+    "precache-manifest.35a49ffca23d55f65a813f763165320c.js": "/usly/precache-manifest.35a49ffca23d55f65a813f763165320c.js",
     "service-worker.js": "/usly/service-worker.js",
     "static/css/main.29cd37bd.chunk.css.map": "/usly/static/css/main.29cd37bd.chunk.css.map",
-    "static/js/2.6a5d0073.chunk.js.LICENSE.txt": "/usly/static/js/2.6a5d0073.chunk.js.LICENSE.txt",
-    "static/js/main.b0e36f0b.chunk.js.LICENSE.txt": "/usly/static/js/main.b0e36f0b.chunk.js.LICENSE.txt",
+    "static/js/2.5a128512.chunk.js.LICENSE.txt": "/usly/static/js/2.5a128512.chunk.js.LICENSE.txt",
+    "static/js/main.c0332ef0.chunk.js.LICENSE.txt": "/usly/static/js/main.c0332ef0.chunk.js.LICENSE.txt",
     "static/media/ayo-ogunseinde-2.jpg": "/usly/static/media/ayo-ogunseinde-2.bfc688ca.jpg",
     "static/media/clem-onojeghuo-2.jpg": "/usly/static/media/clem-onojeghuo-2.bb4b9ac9.jpg",
     "static/media/clem-onojeghuo-3.jpg": "/usly/static/media/clem-onojeghuo-3.ae11d928.jpg",
@@ -26,7 +26,7 @@
     "static/media/kaci-baum-2.jpg": "/usly/static/media/kaci-baum-2.e06d84cb.jpg",
     "static/media/landing-page.png": "/usly/static/media/landing-page.d65b6316.png",
     "static/media/login-image.jpg": "/usly/static/media/login-image.be9fa468.jpg",
-    "static/media/logo.png": "/usly/static/media/logo.6f2ba163.png",
+    "static/media/logo.png": "/usly/static/media/logo.cfb899a2.png",
     "static/media/paper-kit.scss?v=1.2.0": "/usly/static/media/nucleo-icons.f32ed5ad.eot",
     "static/media/profile-page.png": "/usly/static/media/profile-page.ed812899.png",
     "static/media/soroush-karimi.jpg": "/usly/static/media/soroush-karimi.29df8117.jpg",
@@ -34,8 +34,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.31d56570.js",
-    "static/js/2.6a5d0073.chunk.js",
+    "static/js/2.5a128512.chunk.js",
     "static/css/main.29cd37bd.chunk.css",
-    "static/js/main.b0e36f0b.chunk.js"
+    "static/js/main.c0332ef0.chunk.js"
   ]
 }
