@@ -342,7 +342,7 @@ function SectionNavigation() {
             <Navbar className="navbar-transparent pt-0" expand="lg">
               <Container>
                 <NavbarBrand href="#pablo" onClick={(e) => e.preventDefault()}>
-                  Transparent
+                  asasas
                 </NavbarBrand>
                 <button
                   aria-controls="navbarNav"

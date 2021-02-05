@@ -48,25 +48,7 @@ function SectionDownload() {
               </Button>
             </Col>
           </Row>
-          <Row className="text-center upgrade-pro">
-            <Col className="ml-auto mr-auto" md="8">
-              <h2 className="title">Want more?</h2>
-              <p className="description">
-                We're going to launch{" "}
-                <a className="text-danger" href="#pablo" disabled>
-                  Paper Kit PRO React in a few weeks
-                </a>
-                . It will have a huge number of components, sections and example
-                pages.
-              </p>
-            </Col>
-            <Col className="ml-auto mr-auto" sm="5">
-              <Button className="btn-round" color="info" href="#pablo" disabled>
-                <i aria-hidden={true} className="nc-icon nc-spaceship" />{" "}
-                Upgrade to PRO
-              </Button>
-            </Col>
-          </Row>
+
           <Row className="justify-content-md-center sharing-area text-center">
             <Col className="text-center" lg="8" md="12">
               <h3>Thank you for supporting us!</h3>

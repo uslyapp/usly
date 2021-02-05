@@ -19,57 +19,56 @@
 /*eslint-disable*/
 import React from "react";
 
-// reactstrap components
-import { Container } from "reactstrap";
-
 // core components
 
 function IndexHeader() {
   return (
     <>
-      <div
-        className="page-header section-dark"
-        style={{
-          backgroundImage:
-            "url(" + require("assets/img/antoine-barres.jpg") + ")",
-        }}
-      >
+      <div className="page-header" style={{ backgroundColor: "#9dbbdc" }}>
         <div className="filter" />
         <div className="content-center">
-          <Container>
-            <div className="title-brand">
-              <h1 className="presentation-title">Paper Kit React</h1>
-              <div className="fog-low">
-                <img alt="..." src={require("assets/img/fog-low.png")} />
-              </div>
-              <div className="fog-low right">
-                <img alt="..." src={require("assets/img/fog-low.png")} />
-              </div>
-            </div>
-            <h2 className="presentation-subtitle text-center">
-              Make your mark with a Free Bootstrap 4 (Reactstrap) UI Kit!
-            </h2>
-          </Container>
-        </div>
-        <div
-          className="moving-clouds"
-          style={{
-            backgroundImage: "url(" + require("assets/img/clouds.png") + ")",
-          }}
-        />
-        <h6 className="category category-absolute">
-          Designed and coded by{" "}
-          <a
-            href="https://www.creative-tim.com?ref=pkr-index-page"
-            target="_blank"
-          >
+          <div className="title-brand">
             <img
-              alt="..."
-              className="creative-tim-logo"
-              src={require("assets/img/creative-tim-white-slim2.png")}
+              src={require("assets/img/logo.png")}
+              alt="Usly"
+              style={{ width: "20em" }}
             />
-          </a>
-        </h6>
+          </div>
+        </div>
+        <div className="content-center">
+          <div className="title-brand">
+            <h2 className="presentation-subtitle p-center">
+              <p style={{ textAlign: "right", color: "white" }}>
+                אסלי הינה אפליקציה חברתית המספקת תוכן ממוקד ותרגילים מעשיים
+                להתפתחות אישית על ידי אימון ופיתוח של הרגלים חדשים ומיטיבים
+                בהתאמה אישית
+              </p>
+
+              <p style={{ textAlign: "right", color: "white" }}>
+                אנחנו מאמינים שהפרט שואף להתפתח במטרה להגשים את עצמו ולשפר את
+                איכות חייו
+              </p>
+              <p style={{ textAlign: "right", color: "white" }}>
+                אנחנו מאמינים שקבוצה העושה צעדים יחדו מאפשרת לפרט לפתח הרגלים
+                רבים יותר במהירות גבוהה יותר
+              </p>
+              <p style={{ textAlign: "right", color: "white" }}>
+                אנו מאמינים שחיבור והעצמה של נותני השירותים וצורכי התוכן יפתח
+                קהילה תומכת ומשתפרת המשפיעה לטובה על החברה והעולם
+              </p>
+              <p style={{ textAlign: "right", color: "white", marginTop: 20 }}>
+                לימדו הגשימו ומצו את הפוטנציאל הגדול והאמיתי הטמון בכם בעזרת
+                תכנים ייעודים ותרגילים אמיתיים ממיטב הכותבים ובעלי המקצוע. Usly
+                מביאה לכם מגוון תכנים ושיעורי חיים ישימים שמטרתם שיפור עצמי. כל
+                התכנים שלנו נועדו לעזור לך להשיג את מלוא הפוטנציאל המוחי שלך,
+                הגוף, הנשמה והקריירה שלך. עם נושאים מרכזיים כמו מנהיגות, ביטחון,
+                יזמות, פרודוקטיביות, בריאות וכושר, מערכות יחסים, אושר, רוחניות
+                ועוד, Usly היא התחנה המרכזית והיחידה שלך להתפתחות אישית בכל
+                תחומי החיים
+              </p>
+            </h2>
+          </div>
+        </div>
       </div>
     </>
   );
