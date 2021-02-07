@@ -4514,7 +4514,7 @@ License - nucleoapp.com/license/
   margin-bottom: 0; }
 
 .page-header {
-  background-color: #b2afab;
+  background-color: red;
   background-position: center center;
   background-size: cover;
   min-height: 100vh;
@@ -4527,7 +4527,7 @@ License - nucleoapp.com/license/
   align-items: center;
   justify-content: center; }
   .page-header .filter::after {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.1);
     content: "";
     display: block;
     height: 100%;
@@ -4680,8 +4680,8 @@ License - nucleoapp.com/license/
   -webkit-text-fill-color: transparent; }
 
 .presentation-subtitle {
-  font-size: 3.7em;
-  color: #ffffff; }
+  font-size: 1.7em;
+  color: #000000; }
 
 .category-absolute {
   position: absolute;

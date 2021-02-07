@@ -98,6 +98,16 @@ function IndexNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
+                href="/profile-page"
+                title="המומחים שלנו"
+              >
+                <i className="fa fa-user" />
+                <p className="d-lg-none">המומחים שלנו</p>
+              </NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink
+                data-placement="bottom"
                 href="https://www.youtube.com/channel/UCz6vGgW6Nh8QExJW1KX_pgg/featured"
                 target="_blank"
                 title="Follow us on Twitter"

@@ -24,17 +24,13 @@ import React from "react";
 function IndexHeader() {
   return (
     <>
-      <div className="page-header" style={{ backgroundColor: "#9dbbdc" }}>
+      <div
+        className="page-header"
+        style={{
+          backgroundImage: "url(" + require("assets/img/mainImage.jpg") + ")",
+        }}
+      >
         <div className="filter" />
-        <div className="content-center">
-          <div className="title-brand">
-            <img
-              src={require("assets/img/logo.png")}
-              alt="Usly"
-              style={{ width: "20em" }}
-            />
-          </div>
-        </div>
         <div className="content-center">
           <div className="title-brand">
             <h2 className="presentation-subtitle p-center">
