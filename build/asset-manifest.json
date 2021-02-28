@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/usly/static/css/main.196cc15a.chunk.css",
+    "main.js": "/usly/static/js/main.1c9d7ece.chunk.js",
+    "main.js.map": "/usly/static/js/main.1c9d7ece.chunk.js.map",
+    "runtime-main.js": "/usly/static/js/runtime-main.31d56570.js",
+    "runtime-main.js.map": "/usly/static/js/runtime-main.31d56570.js.map",
+    "static/js/2.911e3cbf.chunk.js": "/usly/static/js/2.911e3cbf.chunk.js",
+    "static/js/2.911e3cbf.chunk.js.map": "/usly/static/js/2.911e3cbf.chunk.js.map",
+    "index.html": "/usly/index.html",
+    "precache-manifest.66f675694b36461e7d9fa7a1e76ef8d0.js": "/usly/precache-manifest.66f675694b36461e7d9fa7a1e76ef8d0.js",
+    "service-worker.js": "/usly/service-worker.js",
+    "static/css/main.196cc15a.chunk.css.map": "/usly/static/css/main.196cc15a.chunk.css.map",
+    "static/js/2.911e3cbf.chunk.js.LICENSE.txt": "/usly/static/js/2.911e3cbf.chunk.js.LICENSE.txt",
+    "static/js/main.1c9d7ece.chunk.js.LICENSE.txt": "/usly/static/js/main.1c9d7ece.chunk.js.LICENSE.txt",
+    "static/media/ayo-ogunseinde-2.jpg": "/usly/static/media/ayo-ogunseinde-2.bfc688ca.jpg",
+    "static/media/clem-onojeghuo-2.jpg": "/usly/static/media/clem-onojeghuo-2.bb4b9ac9.jpg",
+    "static/media/clem-onojeghuo-3.jpg": "/usly/static/media/clem-onojeghuo-3.ae11d928.jpg",
+    "static/media/daniel-olahh.jpg": "/usly/static/media/daniel-olahh.facbbdb7.jpg",
+    "static/media/erik-lucatero-2.jpg": "/usly/static/media/erik-lucatero-2.2051e0e8.jpg",
+    "static/media/fabio-mangione.jpg": "/usly/static/media/fabio-mangione.f26c34bb.jpg",
+    "static/media/federico-beccari.jpg": "/usly/static/media/federico-beccari.1331ba97.jpg",
+    "static/media/ilya-yakover.jpg": "/usly/static/media/ilya-yakover.efe05368.jpg",
+    "static/media/joe-gardner-2.jpg": "/usly/static/media/joe-gardner-2.76ff47ae.jpg",
+    "static/media/joshua-stannard.jpg": "/usly/static/media/joshua-stannard.8a26aabc.jpg",
+    "static/media/kaci-baum-2.jpg": "/usly/static/media/kaci-baum-2.e06d84cb.jpg",
+    "static/media/landing-page.png": "/usly/static/media/landing-page.d65b6316.png",
+    "static/media/login-image.jpg": "/usly/static/media/login-image.be9fa468.jpg",
+    "static/media/logo.png": "/usly/static/media/logo.cfb899a2.png",
+    "static/media/mainImage.jpg": "/usly/static/media/mainImage.226cfb8d.jpg",
+    "static/media/paper-kit.scss?v=1.2.0": "/usly/static/media/nucleo-icons.f32ed5ad.eot",
+    "static/media/profile-page.png": "/usly/static/media/profile-page.ed812899.png",
+    "static/media/soroush-karimi.jpg": "/usly/static/media/soroush-karimi.29df8117.jpg",
+    "static/media/uriel-soberanes.jpg": "/usly/static/media/uriel-soberanes.fe3a7838.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31d56570.js",
+    "static/js/2.911e3cbf.chunk.js",
+    "static/css/main.196cc15a.chunk.css",
+    "static/js/main.1c9d7ece.chunk.js"
+  ]
+}
