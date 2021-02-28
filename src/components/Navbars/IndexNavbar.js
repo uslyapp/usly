@@ -96,6 +96,12 @@ function IndexNavbar() {
         >
           <Nav navbar>
             <NavItem>
+              <NavLink data-placement="bottom" href="/index" title="דף הבית">
+                <i className="fa fa-home" />
+                <p className="d-lg-none">בית</p>
+              </NavLink>
+            </NavItem>
+            <NavItem>
               <NavLink
                 data-placement="bottom"
                 href="/profile-page"
@@ -103,6 +109,16 @@ function IndexNavbar() {
               >
                 <i className="fa fa-user" />
                 <p className="d-lg-none">המומחים שלנו</p>
+              </NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink
+                data-placement="bottom"
+                href="/privacy"
+                title="המומחים שלנו"
+              >
+                <i className="fa fa-user" />
+                <p className="d-lg-none">פרטיות</p>
               </NavLink>
             </NavItem>
             <NavItem>

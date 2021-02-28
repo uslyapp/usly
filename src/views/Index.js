@@ -39,6 +39,7 @@ import SectionDark from "views/index-sections/SectionDark.js";
 import SectionLogin from "views/index-sections/SectionLogin.js";
 import SectionExamples from "views/index-sections/SectionExamples.js";
 import SectionDownload from "views/index-sections/SectionDownload.js";
+import UslyPrivacyPage from "./examples/UslyPrivacy";
 
 function Index() {
   document.documentElement.classList.remove("nav-open");
@@ -50,10 +51,12 @@ function Index() {
   });
   return (
     <>
-      <IndexNavbar />
-      <IndexHeader />
-      <div className="main">
-        <SectionButtons />
+      {/* <IndexNavbar /> */}
+
+      <div className="main" id="#privacy">
+        <UslyPrivacyPage />
+
+        {/* <SectionButtons />
         <SectionNavbars />
         <SectionNavigation />
         <SectionProgress />
@@ -66,7 +69,7 @@ function Index() {
         <SectionLogin />
         <SectionExamples />
         <SectionDownload />
-        <DemoFooter />
+        <DemoFooter /> */}
       </div>
     </>
   );
